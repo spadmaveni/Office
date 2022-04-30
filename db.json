@@ -6,10 +6,11 @@
             "address": "Canada",
             "timeAgo": "2 minutes ago",
             "companyLogo": "https://www.logodesign.net/logo/line-art-buildings-in-swoosh-1273ld.png",
-            "type": "Full Time",
+            "type": "text",
             "experienceLevel": "Senior level",
             "experienceLevelColor": "ff0000",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         },
         {
             "id":2,
@@ -20,7 +21,8 @@
             "type": "Full Time",
             "experienceLevel": "Entry level",
             "experienceLevelColor": "92D88B",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         },
         {
             "id":3,
@@ -28,10 +30,11 @@
             "address": "Vancouver, BC",
             "timeAgo": "2 hours ago",
             "companyLogo": "https://dcassetcdn.com/design_img/1028317/67001/67001_5592974_1028317_2eb04990_image.jpg",
-            "type": "Full Time",
+            "type": "text",
             "experienceLevel": "Mid-Senior level",
             "experienceLevelColor": "4495FF",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Fyn U"
         },
         {
             "id":4,
@@ -39,10 +42,11 @@
             "address": "Calgary, AB",
             "timeAgo": "4 days ago",
             "companyLogo": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/01/attachment_66776707-e1515509844624.jpg?auto=format&q=60&fit=max&w=930",
-            "type": "Full Time",
+            "type": "text",
             "experienceLevel": "Associate",
             "experienceLevelColor": "0000ff",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         },
         {
             "id":5,
@@ -53,7 +57,8 @@
             "type": "Full Time",
             "experienceLevel": "Associate",
             "experienceLevelColor": "0000ff",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         },
         {
             "id":6,
@@ -61,10 +66,11 @@
             "address": "Nelson, BC",
             "timeAgo": "1 hours ago",
             "companyLogo": "https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/06/Handling-Finances.jpg",
-            "type": "Full Time",
+            "type": "text",
             "experienceLevel": "Entry level",
             "experienceLevelColor": "92D88B",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         },
         {
             "id":7,
@@ -72,10 +78,11 @@
             "address": "Canada",
             "timeAgo": "2 minutes ago",
             "companyLogo": "https://s3.amazonaws.com/thumbnails.venngage.com/template/bdaf4e02-499c-4389-af74-51ff5a362585.png",
-            "type": "Full Time",
+            "type": "text",
             "experienceLevel": "Senior level",
             "experienceLevelColor": "ff0000",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         },
         {
             "id":8,
@@ -86,7 +93,8 @@
             "type": "Full Time",
             "experienceLevel": "Associate",
             "experienceLevelColor": "0000ff",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         },
         {
             "id":9,
@@ -97,7 +105,8 @@
             "type": "Full Time",
             "experienceLevel": "Associate",
             "experienceLevelColor": "0000ff",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         },
         {
             "id":10,
@@ -108,7 +117,8 @@
             "type": "Full Time",
             "experienceLevel": "Mid-Senior level",
             "experienceLevelColor": "4495FF",
-            "isMyFav": false
+            "isMyFav": false,
+            "rmsg": "Hey, how are you doing?"
         }
     ]
 }
